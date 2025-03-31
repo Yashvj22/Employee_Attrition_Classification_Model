@@ -28,4 +28,3 @@ The **target variable** is **Attrition Status** (Stay or Leave).
 ## 🔗 Live Demo  
 
 🚀 **Check out the live app here**: [Employee Attrition Prediction](https://huggingface.co/spaces/Yashvj123/Employee_Attrition)  
-.
